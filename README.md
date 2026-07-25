@@ -14,7 +14,10 @@ and a CLI, entirely local.
 [![wander](https://raw.githubusercontent.com/wander-dao/wander/main/assets/readme/statusline.png)](https://github.com/wander-dao/wander)
 
 ```sh
+# macOS
 curl -fsSL https://raw.githubusercontent.com/wander-dao/wander/main/install.sh | bash
+# Windows (PowerShell)
+irm https://raw.githubusercontent.com/wander-dao/wander/main/install.ps1 | iex
 ```
 
 #### [supa](https://github.com/conanhazelnut/supa)
@@ -24,7 +27,10 @@ A thin manager over the official Supabase CLI; it decides *which* stacks run and
 reads each project's live ports from its own config.
 
 ```sh
+# macOS / Linux
 curl -fsSL https://raw.githubusercontent.com/conanhazelnut/supa/main/install.sh | sh
+# Windows (PowerShell)
+irm https://raw.githubusercontent.com/conanhazelnut/supa/main/install.ps1 | iex
 ```
 
 ---
