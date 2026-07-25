@@ -27,11 +27,6 @@ reads each project's live ports from its own config.
 curl -fsSL https://raw.githubusercontent.com/conanhazelnut/supa/main/install.sh | sh
 ```
 
-#### [awesome-claude-code](https://github.com/conanhazelnut/awesome-claude-code)
-
-A curated list of tools, IDE integrations, and frameworks for working with
-Claude Code.
-
 ---
 
 <sub>Both CLIs are single binaries (Deno-compiled), macOS + Windows, no runtime to
